@@ -1,0 +1,14 @@
+------,Ip Request Count------
+ip_add,req_count
+203.0.113.5,8
+198.51.100.23,8
+192.168.1.1,7
+10.0.0.2,6
+192.168.1.100,5
+
+---------,Most frequently accessed endpoint --------
+/login,13
+
+-----Most suspicious activity detected:,----------
+203.0.113.5,8
+192.168.1.100,5
